@@ -33,4 +33,5 @@ Please read the CONTRIBUTING.md
 
 Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
 co-created with [Jonathan Neal](https://github.com/jonathantneal).
+
 This re-write is the product of a long plane ride by [Carwin Young](https://github.com/carwin).
