@@ -1,35 +1,21 @@
-# normalize.css v2
+# normalize.sass v2
 
-Normalize.css is a customisable CSS file that makes browsers render all
-elements more consistently and in line with modern standards. We researched the
-differences between default browser styles in order to precisely target only
-the styles that need normalizing.
+Normalize.sass is a rewrite of the most excellent Normalize.css using the sass
+syntax. Why does it exist? Because before it DID exist, it was busy trying to
+avoid the problematic position of not un-existing.
 
-[Check out the demo](http://necolas.github.io/normalize.css/latest/test.html)
+To put it plainly, it doesn't not exist anymore.
 
-[Legacy browser support is available in v1](https://github.com/necolas/normalize.css/tree/v1)
 
-## Install
+# The Original
 
-Download from the [project page](http://necolas.github.io/normalize.css/).
+Normalize.css was created by @necolas and is pretty great. I highly suggest that
+you go over to his [original repository](https://github.com/necolas/normalize.css)
+if you'd like to use Normalize as part of your toolkit. He's even got fancy
+[bower](http://bower.io) nonsense going on.
 
-Install with [Bower](http://bower.io/): `bower install --save normalize-css`
-
-## What does it do?
-
-* Preserves useful defaults, unlike many CSS resets.
-* Normalizes styles for a wide range of elements.
-* Corrects bugs and common browser inconsistencies.
-* Improves usability with subtle improvements.
-* Explains what code does using detailed comments.
-
-## How to use it
-
-Normalize.css is intended to be used as an alternative to CSS resets.
-
-It's suggested that you read the `normalize.css` file and consider customising
-it to meet your needs. Alternatively, include the file in your project and
-override the defaults later in your CSS.
+You can also [Check out the demo](http://necolas.github.io/normalize.css/latest/test.html)
+and find [Legacy browser support is available in v1](https://github.com/necolas/normalize.css/tree/v1)
 
 ## Browser support
 
@@ -47,3 +33,4 @@ Please read the CONTRIBUTING.md
 
 Normalize.css is a project by [Nicolas Gallagher](https://github.com/necolas),
 co-created with [Jonathan Neal](https://github.com/jonathantneal).
+This re-write is the product of a long plane ride by [Carwin Young](https://github.com/carwin).
